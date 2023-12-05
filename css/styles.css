@@ -721,6 +721,12 @@ img {
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
 }
+.contact__title a {
+  color: var(--title-color);
+}
+.contact__title a:hover {
+  color: var(--first-color)
+}
 
 .contact__subtitle {
   font-size: var(--small-font-size);
