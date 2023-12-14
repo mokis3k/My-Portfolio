@@ -701,6 +701,11 @@ img {
   outline: none;
 }
 
+.deploy__link {
+  color: var(--first-color);
+  text-decoration: underline;
+}
+
 /*==================== CONTACT ME ====================*/
 .contact__container {
   row-gap: 3rem;
