@@ -511,7 +511,7 @@ img {
 }
 
 .skills__sql {
-  width: 65%;
+  width: 60%;
 }
 
 .skills__fastapi {
@@ -523,7 +523,7 @@ img {
 }
 
 .skills__css {
-  width: 50%;
+  width: 70%;
 }
 
 .skills__js {
@@ -532,6 +532,10 @@ img {
 
 .skills__react {
   width: 60%;
+}
+
+.skills__node {
+  width: 50%;
 }
 
 .skills__close .skills__list {
