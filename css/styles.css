@@ -734,7 +734,7 @@ img {
   color: var(--title-color);
 }
 .contact__title a:hover {
-  color: var(--first-color)
+  color: var(--first-color);
 }
 
 .contact__subtitle {
